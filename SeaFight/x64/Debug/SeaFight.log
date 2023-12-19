@@ -1,0 +1,5 @@
+﻿  SeaFight.cpp
+F:\OOPProjects\CursovaArthur\SeaFight\SeaFight\Field.h(175,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SeaFight.vcxproj -> F:\OOPProjects\CursovaArthur\SeaFight\x64\Debug\SeaFight.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
